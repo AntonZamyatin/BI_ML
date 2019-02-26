@@ -1,1 +1,1 @@
-# Bioinformatics Institute Machine Learnung HWs
+# Bioinformatics Institute Machine Learning HWs
