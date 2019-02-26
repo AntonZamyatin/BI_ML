@@ -1,1 +1,1 @@
-# BI_ML
+# Bioinformatics Institute Machine Learnung HWs
